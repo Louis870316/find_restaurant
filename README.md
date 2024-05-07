@@ -1,6 +1,6 @@
 # 我的餐廳清單
 
-![Index page about Restaurant List](./public/image/snapshot.png)
+![Index text](https://raw.githubusercontent.com/ALPHACamp/web-model-answer/main/F2-3_BackEnd/A5/public/image/snapshot.png)
 
 ## 介紹
 
