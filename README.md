@@ -1,8 +1,6 @@
-# Find-Restaurant
-=======
 # 我的餐廳清單
 
-![Index page about Restaurant List](./public/image/snapshot.png)
+![Index text](https://raw.githubusercontent.com/ALPHACamp/web-model-answer/main/F2-3_BackEnd/A5/public/image/snapshot.png)
 
 ## 介紹
 
@@ -14,6 +12,9 @@
 - 瀏覽餐廳的詳細資訊
 - 連結餐廳的地址到 Google 地圖
 - 搜尋特定餐廳
+- 新增餐廳
+- 編輯餐廳
+- 刪除餐廳
 
 ## 開始使用
 
@@ -45,8 +46,15 @@
 
 ## 開發工具
 
-- Node.js 20.12.2
-- Express 4.16.4
-- Express-Handlebars 3.0.0
-- Bootstrap 5.1.3
+- Node.js 14.16.0
+- Express 4.17.1
+- Express-Handlebars 5.3.3
+- Bootstrap 5.2.1
 - Font-awesome 5.8.1
+
+- MongoDB
+- mongoose 6.0.5
+
+## 更新紀錄
+
+- 配合 mongoose v6.0.5 版本，node 更新至 v14
