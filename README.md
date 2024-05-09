@@ -46,15 +46,12 @@
 
 ## 開發工具
 
-- Node.js 14.16.0
-- Express 4.17.1
-- Express-Handlebars 5.3.3
+- Node.js 20.12.2
+- Express 4.19.2
+- Express-Handlebars 3.1.0
 - Bootstrap 5.2.1
 - Font-awesome 5.8.1
 
 - MongoDB
 - mongoose 6.0.5
 
-## 更新紀錄
-
-- 配合 mongoose v6.0.5 版本，node 更新至 v14
